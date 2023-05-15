@@ -6,4 +6,9 @@
 <p>Profesor : Cristian Patiño</p>
 
 <h2>Punto 1 : link de figma</h2>
-<a href="https://www.figma.com/file/s3FElAnPs9jd5wfA9482JX/Oscar-Murillo-figma?type=design&node-id=0-1&t=dDdoKrgziP2ICJjs-0">Link de figma</a>
+<a href="https://www.figma.com/file/s3FElAnPs9jd5wfA9482JX/Oscar-Murillo-figma?type=design&node-id=0-1&t=dDdoKrgziP2ICJjs-0"
+targe="_blank">Link de figma</a>
+
+<h2>Punto 2 : HTML</h2>
+<img src="./public/images/html.png" 
+alt="html">
