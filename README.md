@@ -10,5 +10,4 @@
 targe="_blank">Link de figma</a>
 
 <h2>Punto 2 : HTML</h2>
-<img src="./public/images/html.png" 
-alt="html">
+<img src="./public/images/html.png" alt="html">
