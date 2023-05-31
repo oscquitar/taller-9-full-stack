@@ -10,7 +10,7 @@
 targe="_blank">Link de figma</a>
 
 <br>
-<a href="C:/Users/jeleo/OneDrive/Documentos/Taller/index.html">Link pagina</a>
+<a href="https://oscquitar.github.io/taller-9-full-stack/">Link pagina</a>
 
 <h2>Punto 2 : HTML</h2>
 <img src="./public/images/html.png" alt="html">
