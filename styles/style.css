@@ -1,166 +1,64 @@
-/* ESTILOS GLOBALES */
-
 body {
-    margin: 0px;
+  text-align: center;
+  color: #000000b5;
+  font-family: system-ui, -apple-system;
 }
 
-a {
-    font-family: "Jost";
-    font-size: 18px;
+body, div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-button{
-    padding: 12px 25px;
-    font-family: "Jost";
-    font-weight: bold;
-    border-radius: 10px;
-    cursor: pointer;
-}
-.button--orange {
-margin-right: 10px;
-background-color: #FD909E;
-color: #fff;
-border :none;
-}
-
-p {
-    font-family: "Jost";
-    font-weight: 300;
-    font-size: 11px;
-}
-
-h2{
-    margin: 5px 0px;
-    color: #454868;
-    font-family: "Jost";
-    font-family: 48px;
-    line-height: 55px;
-    letter-spacing: -0.64px;
-}
-    
-
-
-/* ESTILOS HEADER */
-
-header {
-    display: flex;
-    justify-content: space-between;
-    margin: 0px 100px;
-}
-
-.header__navigation {
-    display: flex;
-    align-items: center;
-}
-
-.header__navigation nav ul {
-    display: flex;
-    gap: 45px;
-    list-style: none;
-}
-
-.header__navigation nav ul li a {
-    text-decoration: none;
-    color: #454868;
-}
-
-.header__settings {
-    display: flex;
-    align-items: center;
-    gap: 70px;
-}
-
-.header__settings div {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-family: "Jost";
-    font-size: 16px;
-    font-weight: 400;
-}
-
-.header__settings button {
-    background-color: transparent;
-    border: 1px solid #45486854;
-}
-
-/* ESTILO BANER */
-
-#banner {
-    display: flex;
-    margin: 25px 100px;
-    padding: 90px 80px;
-    background: linear-gradient(313.18deg, #EE9AE5 3.28%, #5961F9 97.04%);
-    border-radius: 48px 48px 300px 48px;
+div {
+  flex-direction: column;
+  width: 50%;
+  height: 50%;
+  text-align: center;
 }
 
 h1 {
-    font-family: "Jost";
-    font-size: 60px;
-    font-weight: 600px;
-    color: #fff;
-    line-height: 70px;
-    letter-spacing: -0.64px;
+  font-size: 58px;
 }
 
-#banner P {
-    margin: 25px 0px;
-    color: #fff;
+h2 {
+  font-size: 32px;
 }
 
-.button--white {
-    padding: 12px;
-    background-color: transparent;
-    color: white;
-    border: 1px solid #fff;
+nav {
+  width: 40%;
 }
 
-/* ESTILO SECCION 1 */
-
-#section-1{
-    display: flex;
-    justify-content: space-between;
-    margin: 50px 100px;
-    padding: 20px 80px;
+ul {
+  padding: 0;
+  text-align: center;
+  list-style: none;
 }
 
-.section-1__info{
-    width: 30%;
+li {
+  margin: 50px 0;
 }
 
-.section-1__info h2{
-    margin: 5px 0px;
-    color: #454868;
-    font-family: "Jost";
-    font-size: 48px;
-    line-height: 55px;
-    letter-spacing: -0.64px;
+p {
+  margin: 40px 0 30px;
+  color: #000000ae;
+  font-size: 17px;
+  border-bottom: 1px solid;
 }
 
-.section-1__info{
-    color: #454868;
-    text-align: justify;
+a {
+  padding: 12px 25px;
+  color: #ffffff;
+  background-color: #fd8f54e2;
+  border: none;
+  border-radius: 5px;
+  font-family: system-ui, -apple-system;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
 }
 
-.section-1__card{ 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-    width:min-content;
-   
-    height:195px ;
-    padding: 35px;
-    border-radius: 48px;
-    box-shadow: 0px 10px 50px #45486833;
-    
-}
-
-.section-1__card h3 {
-    font-family: "Jost";
-    color: #454868;
-    font-size: 18px;
-    line-height: 20px;
-    letter-spacing: -0.64px;
-    text-align: center;
+a:hover {
+  background-color: #e87537e2;
 }
