@@ -10,7 +10,7 @@
 targe="_blank">Link de figma</a>
 
 <br>
-<a href="file:///C:/Users/jeleo/OneDrive/Documentos/Taller/index.html">Link pagina</a>
+<a href="C:/Users/jeleo/OneDrive/Documentos/Taller/index.html">Link pagina</a>
 
 <h2>Punto 2 : HTML</h2>
 <img src="./public/images/html.png" alt="html">
