@@ -9,6 +9,9 @@
 <a href="https://www.figma.com/file/s3FElAnPs9jd5wfA9482JX/Oscar-Murillo-figma?type=design&node-id=0-1&t=dDdoKrgziP2ICJjs-0"
 targe="_blank">Link de figma</a>
 
+<br>
+<a href="file:///C:/Users/jeleo/OneDrive/Documentos/Taller/index.html">Link pagina</a>
+
 <h2>Punto 2 : HTML</h2>
 <img src="./public/images/html.png" alt="html">
 
