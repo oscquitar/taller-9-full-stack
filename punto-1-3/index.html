@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="./styles/banner-styles.css">
     <link rel="stylesheet" href="./styles/section-1-styles.css">
     <link rel="stylesheet" href="./styles/section-2-styles.css">
+    <link rel="stylesheet" href="./styles/footer-styles.css">
 </head>
 
 <body>
@@ -62,7 +63,7 @@
                 <img src="./public/images/section1-education (1).png" alt="education" width="120px" height="120px">
                 <h3>Virtualidad y educacion</h3>
             </div>
-            <div class="section-1__card">
+            <div class="section-1__card section-1__card-down">
                 <h3>Alcance de objectivos</h3>
                 <img src="./public/images/section1-goals (1).png" alt="goals" width="120px" height="120px">
 
@@ -74,10 +75,7 @@
         </section>
         <section id="section-2">
             <div class="section-2__info">
-                <img src="./public/images/section2-tools (1).png" 
-                alt="tools" 
-                width="500px"
-                height="350">
+                <img src="./public/images/section2-tools (1).png" alt="tools" width="500px" height="350">
 
                 <div>
                     <h2>Brindamos herramientas para que tu aprendizaje</h2>
@@ -90,10 +88,8 @@
                     <button class="button--orange">Saber mas</button>
                 </div>
             </div>
-            <div>
-                <img src="./public/images/section2-tools (1).png" alt="tools" width="500px" height="350">
-
-                <div class="section-2__info">
+            <div class="section-2__info">
+                <div>
                     <h2>Educacion pensando en</h2>
                     <h2 class="section-2__sub-pink">Objectivos alcanzados</h2>
                     <p>
@@ -101,59 +97,54 @@
                         de cada uno de nuestros estudiantes sea alcanzada a través de nuestros cursos
                     </p>
                     <button class="button--orange">Saber mas</button>
-                    <div>
-                        <img src="./public/images/section2-goals (1).png" alt="500px" width="350px">
-                    </div>
-                    <main>
-                    </main>
-                    <footer id="footer">
-                        <div>
-                            <img src="./public/images/footer-logo (1).png" alt="footer-logo" width="200px"
-                                height="175px">
-                        </div>
-                        <p>
-                            Únete a nuestra comunidad para recibir información actualizada de los cursos
-                            y conferencia que ofrecemos
-                        </p>
-                        <form method="post">
-                            <input id="email" type="email" name="user_name" placeholder="correo electronico">
-                            <button>Subscribirse</button>
-                        </form>
                 </div>
-                <div>
-                    <table>
-                        <tr>
-                            <th>Plataforma</th>
-                            <th>Preguntas frecuentes</th>
-                            <th>Contactenos</th>
-                        </tr>
-                        <tr>
-                        </tr>
-                        <td><a href="">Planestic</a></td>
-                        <td><a href="">Que costo tiene inscribirme?</a></td>
-                        <td>+(57) 320 80 80</td>
-                        </tr>
-                        <tr>
-                            <td><a href="">Moodle</a></td>
-                            <td><a href="">Como obtengo mis Certificados</a></td>
-                            <td><a href="">universidaddistrital@.edu.co</a></td>
-                        </tr>
-                        <tr>
-                            <td><a href="">Atenea</a></td>
-                            <td><a href="">Medios de pago</a></td>
-                            <td>calle 40 #7-19- Bogota</td>
-                        </tr>
-                        <tr>
-                            <td><a href="">Administracion</a></td>
-                            <td><a href="">Que convenios existen?</a></td>
-                        </tr>
-                    </table>
-                </div>
-                </footer>
-            </div>
+                <img src="./public/images/section2-goals (1).png" alt="500px" width="350px">
             </div>
         </section>
     </main>
+    <footer id="footer">
+        <div class="footer__info">
+            <img src="./public/images/footer-logo (1).png" alt="footer-logo" width="200px" height="175px">
+
+            <p>
+                Únete a nuestra comunidad para recibir información actualizada de los cursos
+                y conferencia que ofrecemos
+            </p>
+            <form method="post">
+                <input id="email" type="email" name="user_name" placeholder="correo electronico">
+                <button class="button--pink">Subscribirse</button>
+            </form>
+        </div>
+        <div>
+            <table>
+                <tr>
+                    <th>Plataforma</th>
+                    <th>Preguntas frecuentes</th>
+                    <th>Contactenos</th>
+                </tr>
+                <tr>
+                    <td><a href="">Planestic</a></td>
+                    <td><a href="">Que costo tiene inscribirme?</a></td>
+                    <td>+(57) 320 80 80</td>
+                </tr>
+                <tr>
+                    <td><a href="">Moodle</a></td>
+                    <td><a href="">Como obtengo mis Certificados</a></td>
+                    <td><a href="">universidaddistrital@.edu.co</a></td>
+                </tr>
+                <tr>
+                    <td><a href="">Atenea</a></td>
+                    <td><a href="">Medios de pago</a></td>
+                    <td>calle 40 #7-19- Bogota</td>
+                </tr>
+                <tr>
+                    <td><a href="">Administracion</a></td>
+                    <td><a href="">Que convenios existen?</a></td>
+                </tr>
+            </table>
+        </div>
+    </footer>
+
 </body>
 
 </html>
