@@ -20,7 +20,7 @@ targe="_blank">Link de figma</a>
 
 <h2>Punto 4 : CSS</h2>
 <img src="./punto-4/imagen-4.png
-">
+" alt="css">
 
 
 
