@@ -21,5 +21,5 @@ targe="_blank">Link de figma</a>
 <h2>Punto 4 : CSS</h2>
 <img src="./public/images/imagen-4.png">
 
-
-
+<h2>punto 5 : CSS</h2>
+<img src="./public/images/imagen-5.png">
