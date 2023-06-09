@@ -26,3 +26,6 @@ targe="_blank">Link de figma</a>
 
 <h2>punto 6 : CSS</h2>
 <img src="./public/images/imagen-6.png">
+
+<h2>punto -7-8 : CSS</h2>
+<img src="./public/images/imagen-7-8.png">
