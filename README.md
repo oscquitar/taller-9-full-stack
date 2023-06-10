@@ -31,4 +31,4 @@ targe="_blank">Link de figma</a>
 <img src="./public/images/imagen-7-8.png">
 
 <h2>punto -9 :CSS </h2>
-<img src="./public/">
+<img src="./public/images/imagen-9.png">
